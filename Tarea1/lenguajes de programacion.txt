@@ -1,0 +1,16 @@
+Programacion Imperativa:
+    esta consiste en una secuencia muy definida de instrucciones,
+    el codigo es comprensible pero lleva muchas lineas de codigo.
+    
+    	$listaParticipantes = [1 => 'Peter', 2 => 'Hans', 3 => 'Sarah'];
+	$nombres = [];
+	foreach ($listaParticipantes as $id => $name) {
+    	$nombres[] = $name;
+	}
+
+Programacion Declarativa:
+    en estos programas los codigos se pueden escribir mas rapido
+    ya que el programa utiliza automaticamente metodos adecuados,
+    tambien se puede optimizar facilmente las aplicaciones.
+
+	$nombres = array_values($listaParticipantes);
