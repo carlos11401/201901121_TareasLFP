@@ -1,0 +1,26 @@
+<hola>
+<registro>
+  <nombre>Nombre: Carlos</nombre>
+  <apellido>Apellido: Castro</apellido>
+  <edad>Edad : 19</edad>
+  <color>Color :true</color>
+</registro>
+<registro>
+  <nombre>Nombre: Jose</nombre>
+  <apellido>Apellido: Castro</apellido>
+  <edad>Edad : 20</edad>
+  <color>Color :true</color>
+</registro>
+<registro>
+  <nombre>Nombre: Jose</nombre>
+  <apellido>Apellido: Castro</apellido>
+  <edad>Edad : 20</edad>
+  <color>Color :true</color>
+</registro>
+<registro>
+  <nombre>Nombre: Jose</nombre>
+  <apellido>Apellido: Castro</apellido>
+  <edad>Edad : 20</edad>
+  <color>Color :true</color>
+</registro>
+</hola>		

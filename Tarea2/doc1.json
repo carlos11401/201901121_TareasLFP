@@ -1,0 +1,29 @@
+
+[
+  {
+    "Nombre":"Carlos",
+    "Apellido":"Castro",
+    "Edad":"19",
+    "Estudia":true
+  },
+  {
+    "Nombre":"Jose",
+    "Apellido":"Gonzalez",
+    "Edad":"20",
+    "Estudia":true
+  },
+  {
+    "Nombre":"Karla",
+    "Apellido":"Barrios",
+    "Edad":"21",
+    "Estudia":false
+  },
+  {
+    "Nombre":"Marvin",
+    "Apellido":"Urizar",
+    "Edad":"22",
+    "Estudia":false
+  }
+]
+
+   
